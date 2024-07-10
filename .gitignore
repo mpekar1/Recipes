@@ -1,0 +1,7 @@
+
+# Ignore all that has png extension
+*.png
+
+# Everything in the data directory
+data/*
+!final.dat
